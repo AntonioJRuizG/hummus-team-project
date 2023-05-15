@@ -2,7 +2,7 @@
 
 This is a team project with [Jimena Nuñez](https://github.com/Jimenaaaaaa) and [Joaquín Bezanilla](https://github.com/jbokyes).
 
-Take into account that this was our very first web application. We developed an interactive gallery with data of a public API.
+Take into account that this was our very first web application. We developed an interactive gallery with data of a public API. Working together was a truly enriching experience, and we were all eager to learn from one another.
 
 Throughout the development process, we gained valuable experience working collaboratively as a team. Our collaborative efforts were facilitated by Git version control, which allowed us to work on the same branch and merge changes in a seamless and efficient manner.
 
